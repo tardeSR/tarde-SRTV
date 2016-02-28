@@ -1,0 +1,3 @@
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Stream 1
+rtmp://$OPT:rtmp-raw=rtmp://173.193.205.94/live playpath=foxmalosolandia?id=84421&pk=13a2a4593bfbc74082487c25660c66ee0e061109d2d4848c84aa7ce60ce2a0a0 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/foxmalosolandia/1/600/385
